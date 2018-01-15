@@ -1,4 +1,4 @@
-# GBA_Emulator-by-Ryzee119-
+# GBA-RaspZero
 
 This was designed by /u/Ryzee
 Originally posted on Reddit here:
